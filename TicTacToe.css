@@ -1,0 +1,16 @@
+.err
+{
+	-fx-text-fill: red;
+}
+.btn
+{
+	-fx-background-color: #eef0a3;
+}
+.btn:hover
+{
+	-fx-background-color: #b7d3ed;
+}
+.confirm:hover
+{
+	-fx-background-color: #b7d3ed;
+}
